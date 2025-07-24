@@ -110,7 +110,7 @@ section {
 /* NUEVAS IMÁGENES EN PROYECTOS */
 .proyecto img {
   width: 100%;
-  height: 200px;
+  height: 180px;
   object-fit: cover;
   object-position: top;
   border-radius: 8px;
@@ -189,4 +189,3 @@ footer .redes a:hover {
     flex-direction: column;
   }
 }
-
